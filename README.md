@@ -1,6 +1,6 @@
 # Gridome Bootstrap Portfolio Blog starter for Gridsome
 
-<img src="./starter.png" width="100vw" height="400"/>
+<img src="./starter.png" style="display:block; margin: 0 auto" height="400"/>
 
 ### 1. Install Gridsome CLI tool if you don't have
 
