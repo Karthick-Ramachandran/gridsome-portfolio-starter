@@ -3,6 +3,7 @@
 <center>
 <img src="./starter.png" style="display:block; margin: 0 auto" height="400"/>
 </center>
+
 ### 1. Install Gridsome CLI tool if you don't have
 
 `npm install --global @gridsome/cli`
