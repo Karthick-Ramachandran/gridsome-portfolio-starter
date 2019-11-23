@@ -1,12 +1,12 @@
 # Gridome Bootstrap Portfolio Blog starter for Gridsome
 
-<img src="./starter.png" height="400"/>
+<img src="./starter.png" width="100vw" height="400"/>
 
 ### 1. Install Gridsome CLI tool if you don't have
 
 `npm install --global @gridsome/cli`
 
-### 2. Create a Gridsome project
+### 2. Create the Gridsome project with this starter
 
 1. `gridsome create my-project Karthick-Ramachandran/gridsome-portfolio-starter` to install the starter
 2. `cd gridsome-portfolio-starter` to open the folder
